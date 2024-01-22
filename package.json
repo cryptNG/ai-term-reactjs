@@ -1,0 +1,22 @@
+{
+  "name": "@ai-term/react",
+  "version": "0.2.0",
+  "description": "React components for @ai-term/web-components",
+  "main": "ai-term.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptNG/ai-term-reactjs.git"
+  },
+  "keywords": [
+    "ai-term"
+  ],
+  "author": "CryptNg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptNG/ai-term-reactjs/issues"
+  },
+  "homepage": "https://github.com/cryptNG/ai-term-reactjs#readme"
+}
